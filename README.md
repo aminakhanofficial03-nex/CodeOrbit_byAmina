@@ -85,11 +85,22 @@ The dataset is small and synthetic. Any relationship between study hours and sco
 
 ## GitHub repository
 
-Add your repository URL here after you create it:
+https://github.com/aminakhanofficial03-nex/CodeOrbit_byAmina
 
-`YOUR_GITHUB_REPOSITORY_URL`
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+
+## Setup Instructions
+
+1. Install Python 3.
+2. Install the required libraries using: "pip install pandas matplotlib"
+3. Download the project files.
+4. Run the program using: "python main.py"
 
 ## Author
 
-**Name:** Replace with your name  
+**Name:** Amina Khan
 **Internship:** CodeOrbit Tech — Data Science Internship
